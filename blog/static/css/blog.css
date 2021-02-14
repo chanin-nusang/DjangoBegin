@@ -14,8 +14,12 @@
     margin-left: 40px;
 }
 
-h1, h2, h3, h4 {
+h1, h3, h4 {
     font-family: 'Lobster', cursive;
+}
+
+h2 {
+    font-family: 'Prompt', sans-serif;
 }
 
 .date {
@@ -33,7 +37,7 @@ h1, h2, h3, h4 {
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
     float: right;
-    font-size: 26pt;
+    font-size: 10pt;
     margin-right: 20px;
 }
 
